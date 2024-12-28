@@ -1,0 +1,2 @@
+1. What's the difference b/w the POINTER and REFERENCE?
+2. Static memory allocation stack / Dynamic memory allocation Heap in MEMORY?

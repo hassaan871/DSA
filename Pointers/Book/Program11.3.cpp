@@ -19,8 +19,6 @@ int main(){
 	for(int i=1; i<=5; i++){
 		cout<<*ptr--<<endl;
 	}
-	
-	
-	
+
 	return 0;
 }
